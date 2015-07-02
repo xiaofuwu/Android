@@ -5,4 +5,7 @@ I modify , but wrong.
 2015/7/2 17:43, I modify again.
 2015/7/2 17:45  I modify again
 
+
 have testing. but during this time, this file has been changed by GitHub directly. it will have conflict. 
+
+edit directly in GitHub
